@@ -1,0 +1,6 @@
+# Ignorando arquivos de estudo, pdf e cópias dos cursos, arquivo .env
+arquivos-cursos/
+Desafio/parte_01/app/.env
+Desafio/parte_01/app/movies.csv
+Desafio/parte_01/app/series.csv
+
